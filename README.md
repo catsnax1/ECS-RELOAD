@@ -1,2 +1,16 @@
-# ECS-RELOAD
-The ROBLOX+ for ECS:R!
+## What is ECS:RELOAD?
+The ROBLOX+ for ECS:R! A general quality of life extension made for users who want more to the site.
+
+
+<br>
+
+
+## How do I install ECS:RELOAD?
+
+### Chrome:
+* Open Google Chrome.
+* Click the three dots in the top right corner of the browser window.
+* Select Extensions.
+* Select Developer mode, the toggle button should be blue.
+<br>
+There is no support for other browsers, I apologize.
