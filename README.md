@@ -12,5 +12,7 @@ The ROBLOX+ for ECS:R! A general quality of life extension made for users who wa
 * Click the three dots in the top right corner of the browser window.
 * Select Extensions.
 * Select Developer mode, the toggle button should be blue.
+* Extract the ZIP file.
+* Load Unpacked.
 <br>
 There is no support for other browsers, I apologize.
