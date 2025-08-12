@@ -7,7 +7,7 @@ The ROBLOX+ for ECS:R! A general quality of life extension made for users who wa
 
 ## How do I install ECS:RELOAD?
 
-### Chrome:
+### Chromium Based Browsers (Chrome/Edge, etc):
 * Open Google Chrome.
 * Click the three dots in the top right corner of the browser window.
 * Select Extensions.
