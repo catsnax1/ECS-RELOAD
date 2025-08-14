@@ -1,6 +1,6 @@
 ## What is ECS:RELOAD?
 The ROBLOX+ for ECS:R! A general quality of life extension made for users who want more to the site.
-
+** DEPRECATED. ECS:R IS FILLED WITH PLAYERS WHO ONLY CARE ABOUT ITEMS AND NOT THE GAME. I MOVED TO PEKORA. **
 
 <br>
 
